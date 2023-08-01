@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "url": "src/assets/images/andrea-de-santis-Fv5_ZBLHcAw-unsplash.jpg"
+    "url": "images/andrea-de-santis-Fv5_ZBLHcAw-unsplash.jpg"
   },
   {
     "id": 2,
-    "url": "src/assets/images/masahiro-miyagi-JwLUAb185G4-unsplash.jpg"
+    "url": "images/masahiro-miyagi-JwLUAb185G4-unsplash.jpg"
   },
   {
     "id": 3,
-    "url": "src/assets/images/set-sj-vBNwDAPrTTA-unsplash.jpg"
+    "url": "images/set-sj-vBNwDAPrTTA-unsplash.jpg"
   },
   {
     "id": 4,
-    "url": "src/assets/images/wesley-whitfield--QwONiMQE_I-unsplash.jpg"
+    "url": "images/wesley-whitfield--QwONiMQE_I-unsplash.jpg"
   }
 ]
