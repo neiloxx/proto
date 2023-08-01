@@ -1,7 +1,11 @@
 #root {
   text-align: center;
-  scroll-snap-type: y mandatory;
   max-height: 100vh;
+}
+
+.wrapper {
+  height: 100%;
+  scroll-snap-type: y mandatory;
   overflow-y: scroll;
 }
 

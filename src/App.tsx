@@ -7,7 +7,9 @@ function App() {
 
   return (
     <Div100vh>
+      <div className='wrapper'>
       {photos.map(({id, url}) => (<PhotoCard key={id} url={url}/>))}
+      </div>
     </Div100vh>
   )
 }
